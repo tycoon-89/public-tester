@@ -1,2 +1,3 @@
 this is from collab
 this is collaborator's second change after applying merge rules
+Just checking weather is it owner or not, that means can i make changes in this file or not??
